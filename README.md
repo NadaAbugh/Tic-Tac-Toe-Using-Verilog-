@@ -6,7 +6,7 @@ Tic-tac-toe is a classic game with a grid layout of nine cells. Two players, rep
 One of the project’s objectives was implementing a working tic tac toe game using Verlog language and simulating the code. 
 
 For more details, visit the link below:
-
+https://ruba-ali.wixsite.com/rubabinjabal/single-post/2019/11/29/Tic-Tac-Toe-Using-Verilog
 
 Done by: Nada Abughazalah, Sara Alabbasi, Ruba Bin Jabal, Ruaa A. Obeid.
 
