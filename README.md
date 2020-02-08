@@ -12,4 +12,4 @@ Done by: Nada Abughazalah, Sara Alabbasi, Ruba Bin Jabal, Ruaa A. Obeid.
 
 Instructor: 
 Dr. Rania Elmanfaloty
-Eng. Haya Al-Sahrif
+Eng. Haya Al-Sharif
