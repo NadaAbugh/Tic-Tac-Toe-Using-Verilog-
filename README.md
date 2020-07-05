@@ -8,8 +8,8 @@ One of the project’s objectives was implementing a working tic tac toe game us
 For more details, visit the link below:
 https://ruba-ali.wixsite.com/rubabinjabal/single-post/2019/11/29/Tic-Tac-Toe-Using-Verilog
 
-Done by: Nada Abughazalah, Sara Alabbasi, Ruba Bin Jabal, Ruaa A. Obeid.
+Authors: @NadaAbugh, Sara Alabbasi, Ruba Bin Jabal, Ruaa A. Obeid.
 
 Instructor: 
-Dr. Rania Elmanfaloty
+Dr. Rania Elmanfaloty, 
 Eng. Haya Al-Sharif
